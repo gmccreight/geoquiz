@@ -1,0 +1,7 @@
+[Activity]
+name = Geoquiz 
+service_name = com.mediamason.geoquiz
+class = activity.GeoquizActivity
+icon = activity-geoquiz
+activity_version = 3
+show_launcher = yes
